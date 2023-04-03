@@ -1,4 +1,5 @@
 theme: minima
+layout: post
 title: main config file
 author: Pulse-61
 description: mypages config file
